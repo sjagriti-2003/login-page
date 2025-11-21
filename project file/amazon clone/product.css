@@ -1,0 +1,39 @@
+
+
+body{
+    background-color: #fff;
+}
+.breadcrum{
+    padding: 10px 20px;
+    font-size: 12px;
+    color: #565656;
+}
+.product-display{
+    min-height: 100px;
+    padding: 10px 20px;
+    display: flex;
+}
+
+.product-d-image{
+    display: flex;
+    gap: 10px;
+    
+}
+
+.product-icones{
+    gap: 10px;
+}
+
+.product-icones img{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 5px;
+    margin-top: 10px;
+    &:hover{
+        border: 3px solid #009999;
+        border-radius: 10px;
+        padding: 1px;
+    }
+}

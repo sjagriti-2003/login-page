@@ -1,0 +1,489 @@
+/* 1.  universal selectol */
+/*{
+    padding: 0%;
+    margin: 0%;
+    color: white;
+}*/
+
+/* *{
+    background-color: rgb(239, 141, 201);
+}  */
+
+
+/* 2. element selecotor */
+/* h1 {
+    color:black
+} */
+
+/* 3. id selector */
+/* #headingone {
+    color: chartreuse;
+
+}
+#headingtwo {
+    color: cornflowerblue;
+}
+#headingthree {
+    color:aquamarine
+}
+
+/* 4. class selector */
+/* .paragraph {
+    color: rgb(67, 8, 205);
+}
+
+
+body { */ 
+    /* background-color: bisque;
+}
+
+h1 {
+    color: rgb(208, 129, 10);
+}
+button{
+    color: blue
+    ;
+    background-color: brown;
+}
+#box {
+    background-color: blue;
+}
+.heading {
+    color: red;
+}
+
+button {
+    color: green
+} */
+/* 
+    text-align: left;
+    background-color: blue;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    line-height: normal;
+    text-transform: capitalize;
+}
+ h1 {
+    text-align: center;
+    background-color: brown;
+    color: black;
+    text-decoration:  blue wavy underline;
+    text-transform: uppercase;
+ }
+ #font2{
+    text-align: left;
+    background-color: red;
+    color:blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-transform: lowercase;
+
+
+ }
+ a {
+    text-decoration: none;
+ }
+ #h1 {
+    font-weight: bold;
+ }
+ #h2{
+    font-weight: bolder; */
+ /* }#font1 {
+ #h3 {
+    font-weight: lighter;
+ }
+ #h4 {
+    font-weight: normal;
+ } */
+  /* h1 {
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration:  red underline;
+    font-weight: bolder;
+    color: blue;
+  }
+  p {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #outer {
+    font-size: 25px;
+  }
+
+  #inner {
+    font-size: 10px;
+  } */
+
+ /* h1 {
+   
+    background-color: aqua;
+    text-align: center;
+    text-decoration: black underline;
+    color: blue;
+    border-style: solid;
+    border-color: black;
+    
+   
+  }
+   div {
+    height: 100px;
+    background-color: pink;
+    width: 100px;
+
+/* border detail */
+    /* border-width: 5px;
+    border-style:  solid;
+    border-color: rgb(0, 0, 0); */
+ /* border sorthand */
+  /* border-radius: 50%; */
+
+ /* border: 2px solid black;
+
+   text-align: center; */
+
+   /* padding detail */
+
+  /* padding-left: 20px; */
+  /* padding: 50%; */
+  /* top||right||bottom||left->clockwise */
+/* padding: 1px 2px 3px 4px; */
+
+/* margin detail */
+
+/* margin-top: 25px; */
+/* margin: 50%; */
+/* top||reight||bottom||left->clockwise */
+/* margin: 1px 2px 3px 4px;
+
+   } */ 
+   
+ /* #one {
+height: 350px;
+width: 130px; 
+background-color: rgb(10, 10, 9); 
+border: 2px black solid;
+ }
+ #red {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    margin: 2px 2px 2px 2px;
+ }
+ #yellow {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: yellow;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    margin: 2px 2px 2px 2px;
+ }
+ #green {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: green;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    margin: 2px 2px 2px 2px;
+ } */
+
+ /* #navbar {
+    height: 60px;
+    background-color: #0f1111;
+
+ }
+ button {
+    background-color: #f08804;
+ }
+ #logo {
+    background-color: #f08804;
+    font-size: 25px;
+ }
+ a {
+   margin-right: 200px;
+   text-decoration: none;
+ } */
+
+
+  /* inline or block aliments */
+ /* div {
+    background-color: rgb(159, 238, 238);
+    display: inline;
+ }
+
+ button {
+  display: block;
+ } */
+
+
+ 
+ /* #box1 {
+    background-color: rgba(0, 255, 0, 0.5);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+ }
+
+ #box2 {
+     background-color: rgba(0, 255, 0, 0.75);
+     height: 100px;
+     width: 100px;
+     margin: 25px;
+     padding: 25px;
+     display: inline-block;
+     /* visibility: hidden; */
+ /* } */
+ /* #box3 {
+    background-color: rgba(0, 255, 0, 1);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+ } */ 
+  
+/*   
+#navbar{
+   height: 60px;
+   background-color: #0f1111;
+
+}
+
+ button{
+   background-color: #f08804;
+ }
+ #logo{
+   color: #f08804;
+   font-size: 25px;
+ }
+
+ a{
+   padding-right: 200px;
+   text-decoration: none;
+ }
+.one{
+   height: 100px;
+   width: 100px;
+   border: 2px solid black;
+   display: inline-block;
+}
+#content{
+   height: 600px;
+}
+footer{
+   background-color: black;
+   text-align: center;
+} */
+
+/* #box1{
+   height: 100px;
+   width: 100px;
+   background-color: green;
+}
+#box2{
+   height: 50px;
+   width: 33%;
+   background-color: yellow;
+} */
+ /* div{
+   height: 100px;
+   width: 100px;
+   background-color: aqua;
+   border: 2px solid black;
+   display: inline-block;
+ }
+  #box1{
+
+   position: static;
+   background-color: aqua;
+   background-image: url(flower.jpg);
+   background-size: cover;
+ } */
+ 
+ /*
+ #box2{
+   position:relative;
+   background-color: blue;
+ }
+ #box3{
+   position: sticky;
+   background-color: blueviolet;
+   left: 33px;
+ }
+ #box4{
+   position: fixed;
+   background-color: chartreuse;
+   right: 10px;
+   bottom: 20px;
+ } */
+
+ 
+  /* div{
+   height: 100px;
+   width: 100px;
+   background-image: url(flower.jpg);
+   background-size: cover;
+   position: fixed;
+   right: 0px;
+   top: 50px;
+   color: beige;
+   
+  } */
+
+ /* body{
+   text-align: center;
+  }
+  div{
+   height: 50px;
+   width: 200px;
+   display: inline-block;
+   border: 2px solid black;
+  }
+  #container{
+   width: 600px;
+   height: 600px;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   /* flex-wrap: wrap; */
+   /*align-items: center;
+  }
+
+
+  #box1{
+   background-color: aqua;
+  }
+  #box2{
+   background-color: brown;
+  }
+  #box3{
+   background-color: blue;
+  }
+  #box4{
+   background-color: chartreuse;
+  }
+
+  #box5{
+   background-color: darkmagenta;
+
+  }*/
+ 
+  /* .navbar{
+   background-color: pink;
+   display: flex;
+   justify-content: space-evenly;
+  }
+  a{
+   text-decoration: none;
+   color: white;
+  
+  }
+  li{
+   list-style-type: none;
+ background-color: blue;
+display: inline;
+  }  */
+
+/* .outer{
+   height: 400px;
+   width: 400px;
+   background-color: blue;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.inner{
+   height: 100px;
+   width: 100px;
+   background-color: blanchedalmond;
+} */
+
+/* div{
+   height: 50px;
+   width: 50px;
+   background-color: red;
+
+}
+@media (max-width : 300px){
+   div{
+      background-color:green;
+   }
+}
+@media (min-width:300)and(max-width:400px){
+   div{
+      background-color: pink;
+   }
+}
+@media (min-width:400) and (max-width:600px) {
+   div{
+      background-color: red;
+   }
+} */
+/* 
+div{
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   background-color: aquamarine;
+   border: 2px solid black; */
+/* transition-property:all ;
+transition-duration: 2s; */
+/* position: absolute;
+top: 100px;
+left: 100px; */
+/* transform: rotate(45deg); */
+/* transform: scale(0.5); */
+/* transition: all 2s ease-in; */
+/* animation-name: coloranimate;
+animation-duration: 3s; */
+/* animation-timing-function: ease-in; */
+/* animation-delay: 0s;
+animation-iteration-count: infinite;
+animation-direction: normal;
+} */
+
+/* @keyframes  coloranimate {
+   from {
+     left:0px}
+      to {
+         left:200px;
+      }
+} */
+/* div:hover{ */
+   /* background-color: blue;
+   color: aliceblue;
+   font-size: 20px; */
+   /* transition-timing-function:steps(5) ;
+   transition-delay: 1s; */
+   /* transform: rotate(360deg); */
+   /* transform: translate(-50px); */
+   /* transform: skew(90deg); */
+
+/* } */
+/* div:active{
+   background-color: blueviolet; */
+/* } */
+
+/* .loader{
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   border: 20px solid #fff66d;
+   border-top: 20px solid #4ECDC4;
+  animation: spinanimation 3s ease-in-out 0s infinite normal;
+}
+@keyframes spinanimation{
+   from{
+      transform: rotate(0deg);
+   }
+   to{
+      transform: rotate(360deg);
+   }
+} */
